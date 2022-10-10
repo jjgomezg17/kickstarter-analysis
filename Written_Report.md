@@ -12,6 +12,8 @@
 
 #### Based on the "Kickstarter" database, create a pivot table by clicking the insert pivot table tab. Once created, I pressed this option, I selected the parent category and the years as filters, this to subsequently obtain the data by the months of each year and with the desired category, which in this case is theater. Then, I selected the results of each theater as a column and the sum of these by months as the filling of the cells within the table. Finally, I chose with rows the date of creation, in order to obtain the months of release of each theater. All this would result in a pivot table that would show me, according to the month, what was the sum of each possible result (successful, failed, etc.).
 
+![1.1](https://raw.githubusercontent.com/jjgomezg17/kickstarter-analysis/main/resources/images/1.1.png)
+
 1.1 y 1.1.2
 
 ##### To get only the theater data, I clicked on the parent category filter and selected that option.
