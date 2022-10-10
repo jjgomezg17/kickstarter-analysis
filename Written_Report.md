@@ -14,33 +14,33 @@
 
 ![1.1](https://raw.githubusercontent.com/jjgomezg17/kickstarter-analysis/main/resources/images/1.1.png)
 
-1.1 y 1.1.2
+![1.1.2](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/resources/images/1.1.2.png?raw=true)
 
 ##### To get only the theater data, I clicked on the parent category filter and selected that option.
 
-1.2
+![1.2](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/resources/images/1.2.png?raw=true)
 
 ##### To get the successful theater results first, I clicked on the column labels filter and selected the descendant based on outcomes option.
 
-1.3
+![1.3](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/resources/images/1.3.png?raw=true)
 
 #### Selecting the pivot table results, I inserted a line chart from the insert tab, so you can easily see theater results based on their release date.
 
-1.4
+![1.4](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/resources/images/1.4.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
 #### Based on the KickStarter tab, I created a table that separates the projects of this tab by row according to their goal, after that I created different columns that would represent the sum of these projects (plays) according to their result, using the COUNTIFS function, to filter the sum of these projects as previously described as can be evidenced in the following image. Then I added the total of projects in the different categories according to the goal.
 
-2.1
+![2.1](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/resources/images/2.1.png?raw=true)
 
 ##### After that, I divided the sum of each category of results over the total of projects according to their goal, this to know their percentage.
 
-2.2
+![2.2](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/resources/images/2.2.png?raw=true)
 
 ##### Selecting the table results, I inserted a line chart from the insert tab, so you can easily see plays results based on their goal.
 
-2.3
+![2.3](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/resources/images/2.3.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
