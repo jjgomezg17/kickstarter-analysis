@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-[link](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
+[Link to Excel with all the data al calculations](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
 
 ### Purpose
 
@@ -10,7 +10,7 @@
 
 ## Analysis and Challenges
 
-![Exce](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
+[Link to Excel with all the data al calculations](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -52,7 +52,7 @@
 
 ## Results
 
-![Exce](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
+[Link to Excel with all the data al calculations](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
