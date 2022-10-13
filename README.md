@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-![Exce](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
+[link](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
 
 ### Purpose
 
