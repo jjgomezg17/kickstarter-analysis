@@ -2,11 +2,15 @@
 
 ## Overview of Project
 
+![Exce](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
+
 ### Purpose
 
 #### Help Louise to understand the results of other artistic works to assimilate how different aspects can affect the future of her own work "Fever". Evaluating the results of the theater depending on the date on which it was launched and of the plays depending on the proposed goals. This, so that Louise can take certain steps to her own advantage by understanding how the release date and goals can affect the results of her work.
 
 ## Analysis and Challenges
+
+![Exce](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -47,6 +51,8 @@
 #### One of the difficulties encountered was that when carrying out the processes I always had to take into account that I was selecting the category of project that was being asked of me in the exercise to do the analysis, because in some cases the data of the different types of projects were still the same measures of central tendency and I was a bit confused. Another difficulty encountered is the use of $ to use the same row or column when performing calculations in the excel data sheet, and several times I forgot to use it and the calculations went wrong.
 
 ## Results
+
+![Exce](https://github.com/jjgomezg17/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true)
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
